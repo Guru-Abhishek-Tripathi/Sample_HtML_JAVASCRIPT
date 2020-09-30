@@ -1,0 +1,55 @@
+.GFG { 
+            background-color: burlywood; 
+            border: 2px solid black; 
+            color: darkslateblue; 
+            padding: 5px 10px; 
+            text-align: center; 
+            display: inline-block; 
+            font-size: 20px; 
+            margin: 10px 30px; 
+            cursor: pointer; 
+        } 
+        body  {
+  background-image: url("media/ii.jpg");
+}
+h1 {
+background-color: rosybrown; 
+  /*padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;*/
+  font-size: 60px;
+  padding-left: 30px;
+}
+p
+{
+  color: snow;
+  font-size: 30px;
+  padding-left: 30px;
+}
+h2 {
+  color: thistle; 
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  font-variant: small-caps;
+  /*padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;*/
+  font-size: 45px;
+  padding-left: 30px;
+}
+td {
+font-size: 25px;
+border: 2px solid whitesmoke; 
+color: snow;
+  /*padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;*/
+  padding-left: 30px;
+  border-radius: 25px;
+}
+table
+{
+  border-radius: 25px;
+  border: 2px solid whitesmoke;
+border-spacing: 5px;
+}
